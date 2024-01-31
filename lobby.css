@@ -3,7 +3,7 @@ body{
     background-color: #1a1a1a;
     color: #fff;
 }
-.<uniquifier>{
+.<uniquifier> {
      font-family: "Honk", system-ui;
   font-optical-sizing: auto;
   font-weight: 400;
