@@ -7,13 +7,13 @@ body{
   font-weight: 400;
   font-style: normal;
 }
-.<uniquifier> {
+.<uniquifier>{
      font-family: "Honk", system-ui;
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
-  
-   
+   "MORF" 15,
+    "SHLN" 50;
 }
 #form-container{
     width: 90%;
