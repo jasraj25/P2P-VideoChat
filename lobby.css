@@ -70,7 +70,9 @@ input {
     background-color: #3f434a;
     margin-top: 32px;
   }
- 
+ input:hover{
+ background-color: black;
+ }
  
   input[type='submit'] {
     background-color: #845695;
