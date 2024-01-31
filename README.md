@@ -1,4 +1,4 @@
-# PeerChat
+# Vibe View
 A peer to peer WebRTC application with controls
 
 # Installation
