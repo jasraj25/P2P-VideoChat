@@ -15,7 +15,7 @@ body{
     font-size: xx-large;
      position: fixed;
     text-align: center;
-     padding:20px;
+     
 }
 .vibe p{
   font-family: "Roboto Condensed", sans-serif;
@@ -29,8 +29,7 @@ body{
   height: 50px;
   margin: 0 auto;
     color: white;
-     position: fixed;
-    padding:120px;
+
 }
 
 #form-container{
