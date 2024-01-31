@@ -14,6 +14,7 @@ body{
     "SHLN" 50;
     font-size: xx-large;
     text-align: center;
+     padding:20px;
 }
 .vibe p{
   font-family: "Roboto Condensed", sans-serif;
@@ -27,6 +28,7 @@ body{
   height: 50px;
   margin: 0 auto;
     color: white;
+    padding:20px;
 }
 
 #form-container{
